@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.2.0] - 2019-04-23
+- Update Alpine packages
+
 ## [1.1.0] - 2019-04-08
 - Add configuration profile for Symfony 4
 - Do not treat PHP-FPM as an extension
@@ -13,5 +16,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-02-19
 - Initial public release
 
-[Unreleased]:  https://github.com/gmitirol/alpine39-php72/compare/1.1.0...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine39-php72/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/gmitirol/alpine39-php72/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/gmitirol/alpine39-php72/compare/1.0.0...1.1.0
