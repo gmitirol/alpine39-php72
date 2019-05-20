@@ -5,6 +5,8 @@ Provides a PHP 7.2 docker image based on our [Alpine Linux 3.9 base image](https
 
 This image can be used as a base for the testing and deployment of PHP applications.
 
+To build the docker image, do not forget to adapt the base image version in `Dockerfile` where necessary.
+
 Included scripts:
 
 | Script                       | Purpose                                                                    |
