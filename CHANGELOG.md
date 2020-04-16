@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.11.1] - 2020-04-16
+- Update alpine base image
+
 ## [1.11.0] - 2020-02-04
 - Rebuild image for latest PHP updates
 
@@ -61,7 +64,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-02-19
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.11.0...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.11.1...HEAD
+[1.11.1]: https://github.com/gmitirol/alpine39-php72/compare/1.11.0...1.11.1
 [1.11.0]: https://github.com/gmitirol/alpine39-php72/compare/1.10.0...1.11.0
 [1.10.0]: https://github.com/gmitirol/alpine39-php72/compare/1.9.0...1.10.0
 [1.9.0]: https://github.com/gmitirol/alpine39-php72/compare/1.8.2...1.9.0
