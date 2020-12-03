@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.13.4] - 2020-12-03
+- Fix superglobal access in tests
+
 ## [1.13.3] - 2020-11-30
 - Update alpine base image
 
@@ -89,7 +92,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-02-19
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.13.3...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.13.4...HEAD
+[1.13.4]: https://github.com/gmitirol/alpine39-php72/compare/1.13.3...1.13.4
 [1.13.3]: https://github.com/gmitirol/alpine39-php72/compare/1.13.2...1.13.3
 [1.13.2]: https://github.com/gmitirol/alpine39-php72/compare/1.13.1...1.13.2
 [1.13.1]: https://github.com/gmitirol/alpine39-php72/compare/1.13.0...1.13.1
