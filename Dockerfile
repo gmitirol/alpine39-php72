@@ -1,5 +1,5 @@
 ARG REGISTRY_PATH=gmitirol
-FROM $REGISTRY_PATH/alpine39:1.1.19
+FROM $REGISTRY_PATH/alpine39:1.1.20
 LABEL maintainer="gmi-edv@i-med.ac.at"
 
 ADD scripts/ /usr/local/bin/

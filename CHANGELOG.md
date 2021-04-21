@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.13.6] - 2021-04-21
+- Update alpine base image
+
 ## [1.13.5] - 2020-12-16
 - Update alpine base image
 - Use tagged versions of docker and dind, use new --all-tags parameter
@@ -96,7 +99,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-02-19
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.13.5...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine39-php72/compare/1.13.6...HEAD
+[1.13.6]: https://github.com/gmitirol/alpine39-php72/compare/1.13.5...1.13.6
 [1.13.5]: https://github.com/gmitirol/alpine39-php72/compare/1.13.4...1.13.5
 [1.13.4]: https://github.com/gmitirol/alpine39-php72/compare/1.13.3...1.13.4
 [1.13.3]: https://github.com/gmitirol/alpine39-php72/compare/1.13.2...1.13.3
